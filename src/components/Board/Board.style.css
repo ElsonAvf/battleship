@@ -1,0 +1,10 @@
+.board {
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(10, 20px);;
+  gap: 6px;
+}
+ul {
+  margin: 0;
+  padding: 0;
+}
